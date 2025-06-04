@@ -1,0 +1,53 @@
+[
+  {
+    "judul": "Proklamasi Kemerdekaan Indonesia",
+    "tanggal_mulai": "1945-08-17",
+    "deskripsi": "Soekarno dan Mohammad Hatta memproklamasikan kemerdekaan Indonesia dari penjajahan Belanda pada pukul 10:00 JST di kediaman Soekarno, Jalan Pegangsaan Timur 56, Jakarta.",
+    "lokasi": "Jakarta",
+    "tokoh": ["Soekarno", "Mohammad Hatta", "Fatmawati"]
+  },
+  {
+    "judul": "Era Orde Lama",
+    "tanggal_mulai": "1945-08-18",
+    "tanggal_selesai": "1966-03-11",
+    "deskripsi": "Periode pemerintahan Presiden Soekarno yang ditandai dengan sistem Demokrasi Terpimpin dan kebijakan Nasakom.",
+    "lokasi": "Indonesia",
+    "tokoh": ["Soekarno"]
+  },
+  {
+    "judul": "Gerakan 30 September (G30S/PKI)",
+    "tanggal_mulai": "1965-09-30",
+    "tanggal_selesai": "1965-10-01",
+    "deskripsi": "Upaya kudeta oleh Gerakan 30 September yang mengakibatkan terbunuhnya enam jenderal dan satu perwira TNI AD. Jenazah mereka ditemukan di Lubang Buaya, Jakarta Timur.",
+    "lokasi": "Jakarta",
+    "tokoh": [
+      "D.N. Aidit",
+      "Letjen Ahmad Yani",
+      "Mayjen R. Soeprapto",
+      "Mayjen M.T. Haryono",
+      "Mayjen S. Parman",
+      "Brigjen D.I. Panjaitan",
+      "Brigjen Sutoyo Siswomiharjo",
+      "Lettu Pierre Tendean"
+    ]
+  },
+  {
+    "judul": "Reformasi 1998",
+    "tanggal_mulai": "1998-05-21",
+    "deskripsi": "Presiden Soeharto mengundurkan diri setelah 32 tahun berkuasa, menandai dimulainya Era Reformasi di Indonesia.",
+    "lokasi": "Jakarta",
+    "tokoh": [
+      "Soeharto",
+      "B.J. Habibie",
+      "Amien Rais",
+      "Megawati Soekarnoputri"
+    ]
+  },
+  {
+    "judul": "Tsunami Aceh 2004",
+    "tanggal_mulai": "2004-12-26",
+    "deskripsi": "Gempa bumi berkekuatan 9,1 SR di lepas pantai Sumatra memicu tsunami dahsyat yang menewaskan lebih dari 170.000 orang di Aceh dan sekitarnya.",
+    "lokasi": "Aceh",
+    "tokoh": []
+  }
+]

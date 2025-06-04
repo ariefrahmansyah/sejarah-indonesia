@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/event.schema.json",
+  "title": "Peristiwa Sejarah Indonesia",
+  "type": "object",
+  "properties": {
+    "judul": {
+      "type": "string",
+      "description": "Judul peristiwa atau era"
+    },
+    "tanggal_mulai": {
+      "type": "string",
+      "format": "date",
+      "description": "Tanggal mulai peristiwa (format: YYYY-MM-DD)"
+    },
+    "tanggal_selesai": {
+      "type": "string",
+      "format": "date",
+      "description": "Tanggal selesai peristiwa (format: YYYY-MM-DD), opsional untuk peristiwa satu hari"
+    },
+    "deskripsi": {
+      "type": "string",
+      "description": "Deskripsi singkat peristiwa"
+    },
+    "lokasi": {
+      "type": "string",
+      "description": "Lokasi geografis peristiwa"
+    },
+    "tokoh": {
+      "type": "array",
+      "description": "Daftar tokoh yang terlibat dalam peristiwa",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["judul", "tanggal_mulai", "deskripsi"],
+  "additionalProperties": false
+}
