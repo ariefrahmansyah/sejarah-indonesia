@@ -7,12 +7,20 @@
     "tokoh": ["Soekarno", "Mohammad Hatta", "Fatmawati"]
   },
   {
-    "judul": "Era Orde Lama",
+    "judul": "Orde Lama",
     "tanggal_mulai": "1945-08-18",
     "tanggal_selesai": "1966-03-11",
     "deskripsi": "Periode pemerintahan Presiden Soekarno yang ditandai dengan sistem Demokrasi Terpimpin dan kebijakan Nasakom.",
     "lokasi": "Indonesia",
     "tokoh": ["Soekarno"]
+  },
+  {
+    "judul": "Orde Baru",
+    "tanggal_mulai": "1966-03-11",
+    "tanggal_selesai": "1998-05-21",
+    "deskripsi": "Periode pemerintahan Presiden Soeharto yang ditandai dengan sistem Demokrasi Terpimpin dan kebijakan Nasakom.",
+    "lokasi": "Indonesia",
+    "tokoh": ["Soeharto"]
   },
   {
     "judul": "Gerakan 30 September (G30S/PKI)",
