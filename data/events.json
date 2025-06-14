@@ -3,7 +3,7 @@
     "judul": "Proklamasi Kemerdekaan Indonesia",
     "tanggal_mulai": "1945-08-17",
     "deskripsi": "Soekarno dan Mohammad Hatta memproklamasikan kemerdekaan Indonesia dari penjajahan Belanda pada pukul 10:00 JST di kediaman Soekarno, Jalan Pegangsaan Timur 56, Jakarta.",
-    "lokasi": "Jakarta",
+    "lokasi": ["Jakarta"],
     "tokoh": ["Soekarno", "Mohammad Hatta", "Fatmawati"]
   },
   {
@@ -11,7 +11,7 @@
     "tanggal_mulai": "1945-08-18",
     "tanggal_selesai": "1966-03-11",
     "deskripsi": "Periode pemerintahan Presiden Soekarno yang ditandai dengan sistem Demokrasi Terpimpin dan kebijakan Nasakom.",
-    "lokasi": "Indonesia",
+    "lokasi": ["Indonesia"],
     "tokoh": ["Soekarno"]
   },
   {
@@ -19,7 +19,7 @@
     "tanggal_mulai": "1966-03-11",
     "tanggal_selesai": "1998-05-21",
     "deskripsi": "Periode pemerintahan Presiden Soeharto yang ditandai dengan sistem Demokrasi Terpimpin dan kebijakan Nasakom.",
-    "lokasi": "Indonesia",
+    "lokasi": ["Indonesia"],
     "tokoh": ["Soeharto"]
   },
   {
@@ -27,7 +27,7 @@
     "tanggal_mulai": "1965-09-30",
     "tanggal_selesai": "1965-10-01",
     "deskripsi": "Upaya kudeta oleh Gerakan 30 September yang mengakibatkan terbunuhnya enam jenderal dan satu perwira TNI AD. Jenazah mereka ditemukan di Lubang Buaya, Jakarta Timur.",
-    "lokasi": "Jakarta",
+    "lokasi": ["Jakarta"],
     "tokoh": [
       "D.N. Aidit",
       "Letjen Ahmad Yani",
@@ -40,10 +40,22 @@
     ]
   },
   {
+    "judul": "Kerusuhan Mei 1998",
+    "tanggal_mulai": "1998-05-12",
+    "tanggal_selesai": "1998-05-15",
+    "deskripsi": "Kerusuhan Mei 1998 atau dikenal sebagai Tragedi 1998 dan Peristiwa 98 adalah peristiwa kerusuhan massa, demonstrasi anti-pemerintah, dan pembangkangan sipil di Indonesia pada bulan Mei 1998. Kerusuhan tersebut diorganisir dengan mengeksploitasi kekecewaan publik akibat korupsi, krisis moneter, dan berbagai permasalahan sosial lainnya. termasuk kekurangan pangan dan pengangguran massal. Diperkirakan lebih dari seribu orang tewas dalam kerusuhan tersebut.[7][8] Sedikitnya 168 kasus pemerkosaan risman dilaporkan, dan kerusakan material bernilai lebih dari Rp3,1 triliun (US$260 juta). Pada tahun 2010, proses hukum atas kerusuhan tersebut terhenti dan belum selesai.",
+    "lokasi": ["Medan", "Jakarta", "Bandung", "Surakarta", "Indonesia"],
+    "tokoh": [],
+    "sumber": [
+      "https://id.wikipedia.org/wiki/Kerusuhan_Mei_1998",
+      "https://x.com/logos_id/status/1260398596668764162"
+    ]
+  },
+  {
     "judul": "Reformasi 1998",
     "tanggal_mulai": "1998-05-21",
     "deskripsi": "Presiden Soeharto mengundurkan diri setelah 32 tahun berkuasa, menandai dimulainya Era Reformasi di Indonesia.",
-    "lokasi": "Jakarta",
+    "lokasi": ["Jakarta"],
     "tokoh": [
       "Soeharto",
       "B.J. Habibie",
@@ -55,7 +67,7 @@
     "judul": "Tsunami Aceh 2004",
     "tanggal_mulai": "2004-12-26",
     "deskripsi": "Gempa bumi berkekuatan 9,1 SR di lepas pantai Sumatra memicu tsunami dahsyat yang menewaskan lebih dari 170.000 orang di Aceh dan sekitarnya.",
-    "lokasi": "Aceh",
+    "lokasi": ["Aceh"],
     "tokoh": []
   }
 ]

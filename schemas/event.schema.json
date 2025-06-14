@@ -23,12 +23,22 @@
       "description": "Deskripsi singkat peristiwa"
     },
     "lokasi": {
-      "type": "string",
-      "description": "Lokasi geografis peristiwa"
+      "type": "array",
+      "description": "Lokasi geografis peristiwa",
+      "items": {
+        "type": "string"
+      }
     },
     "tokoh": {
       "type": "array",
       "description": "Daftar tokoh yang terlibat dalam peristiwa",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sumber": {
+      "type": "array",
+      "description": "Sumber dokumentasi dan data peristiwa",
       "items": {
         "type": "string"
       }
